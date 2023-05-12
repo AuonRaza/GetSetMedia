@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetSetMedia</string>
+    <string name="app_info">Get set media allows you to record videos and voice memos and capture or import images and saves your files to directoy (my_files) inside storage>android>data>getsetmedia>files>pictures</string>
+</resources>
